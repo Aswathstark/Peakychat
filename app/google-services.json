@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313430132342",
+    "firebase_url": "https://mew-chat-2ae8c.firebaseio.com",
+    "project_id": "mew-chat-2ae8c",
+    "storage_bucket": "mew-chat-2ae8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313430132342:android:7cfa8b9bbc0f3c0a95c157",
+        "android_client_info": {
+          "package_name": "com.example.mewchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313430132342-hvvo05oj3o0j9d9ob9uchti9kp5ost5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mewchat",
+            "certificate_hash": "8a55de1550c3ca720aa2004ac5224e568611b262"
+          }
+        },
+        {
+          "client_id": "313430132342-mlcskvffjno4cqgag4jd7lrbngi1kas0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxWjX6xFMVtYiZx5kZ5iGZBYJWhq8WhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313430132342-mlcskvffjno4cqgag4jd7lrbngi1kas0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
